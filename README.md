@@ -1,7 +1,6 @@
 # Mehrere Grenzen: Zeit, Last, Fahrerzeit – Streamlit-Demo
 
-<!-- Nach dem Deploy hier direkt den Live-Link einsetzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-mehrere-grenzen-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-mehrere-grenzen-demo.streamlit.app/)**
 
 Interaktive **Konzepte-Demo** der Reihe „Ressourcenwege und Spaltenerzeugung“ im Portfolio von [Sebastian Hanisch](https://sebastianhanisch.net) (Operations Research und Machine Learning).
 Im **Pricing** der Spaltenerzeugung sucht das **Label-Setting** den günstigsten Weg, der alle **Grenzen** einhält: Zeitfenster, Ladekapazität, Lenk- oder Fahrerzeit. Jeder Teilweg wird als **Label** festgehalten
